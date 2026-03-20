@@ -1,2 +1,3 @@
-# modern-news-aggregator-wlya
-Modern News Aggregator with automated issue commenting
+# Modern News Aggregator Wlya
+
+Automated issue comment bot repository.
